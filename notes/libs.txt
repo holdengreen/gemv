@@ -1,0 +1,16 @@
+vulkan
+llvm
+libc: musl or glibc
+libc++: ?
+ffmpeg
+tar
+image: ? https://flif.info/ derived
+web: ?
+compression: ?
+marshal: ? json, xml, yaml, ml
+drivers: ? network
+
+? localization
+? ssl
+? audio
+? database

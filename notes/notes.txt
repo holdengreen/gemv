@@ -1,0 +1,4 @@
+The gfx layer should create a layer between it's actual implementation and the graphics API which is assumed to be vulkan, because like OpenGL vulkan will have a fixed lifetime.
+Since vulkan is predicated on the modern mono-culture of graphics architectures it should be assumed that it will be antiquated when that fundamentally changes.Research to be done.
+
+I think the only communications driver in the X layer other than the registry should happen by network since that is a universal, efficient and package based.

@@ -1,0 +1,7 @@
+# Notes on GEMv
+so this is virtualized layer.
+
+I am going through Yocto documnetation, and I am figuring that it is overkill and not fully appropriate for GEMv but I would like to take ques from it in designing the compilation system of GEMv.
+
+As versioning goes, I think GEMv should be versioned in numbers and revisions ex: GEMv0 or GEMv1r2.
+Or potentially considering time dates ex: GEMv2206r1 for 2022-06 revision 1.

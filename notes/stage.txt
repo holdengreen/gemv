@@ -1,0 +1,2 @@
+GEMx specifically is going to need a browser.
+I think for now using a chromium backend with an improved productive front end in GEMx will be adequate.

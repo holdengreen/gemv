@@ -1,0 +1,5 @@
+shell: dash
+filesystem: squashfs or bcachefs
+vpn: ?
+samba: ?
+lua: ? maybe lua as a simple root level script if dash isn't enough

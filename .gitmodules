@@ -1,0 +1,6 @@
+[submodule "res"]
+	path = res
+	url = git@github.com:holdengreen/res.git
+[submodule "mods/gemx"]
+	path = mods/gemx
+	url = git@github.com:greenempower/gemx.git
