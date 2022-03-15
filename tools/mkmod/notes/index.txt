@@ -1,0 +1,15 @@
+--- notes / index ---
+
+src layout:
+- meta/
+- bin/
+- conf/
+- code/
+- extra/
+- assets/
+- docs/
+- registry/ (maybe)
+- hr/package/idk(/, .json) (human relations, ex. credits, LICENSE, authors, keys, etc... I can't think of a better name)
+
+
+core layout is same as above without code and registry
