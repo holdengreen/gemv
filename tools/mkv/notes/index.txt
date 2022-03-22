@@ -1,0 +1,14 @@
+--- tools/mkv ---
+
+this should be be the tool that generates a working system image for a given target platform
+- browser  (wip)
+- lxc      (wip)
+- virt     (wip)
+- embedded (wip)
+- mobile   (wip)
+
+note: browser is a safe and universal fallback
+note: lxc means GEMx in a Linux container
+note: virt means GEMx in QEMU specifically for Windows and MacOS
+note: embedded is a cut down Yocto configuration related to virt
+note: mobile is similar to browser with mobile device features

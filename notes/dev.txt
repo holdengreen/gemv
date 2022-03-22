@@ -1,0 +1,1 @@
+the dev directory is where necessary tools for compilation are sync'd to

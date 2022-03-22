@@ -11,5 +11,8 @@ src layout:
 - registry/ (maybe)
 - hr/package/idk(/, .json) (human relations, ex. credits, LICENSE, authors, keys, etc... I can't think of a better name)
 
+potential layout:
+- api
+
 
 core layout is same as above without code and registry
